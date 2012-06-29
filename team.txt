@@ -6,5 +6,14 @@ in a name, "github name, contribution" one per line
 
 for example
 
-louis sobel, louissobel, wrote the instructions
+louis sobel, louissobel, wrote the instruction
 =========================
+ BRIGHT SRAKU    	brightey    helped in the coding and provided resources
+ 
+ BENEDICTUS ASHIGBUI    jayfro     wrote the code
+
+ STEPHEN AMPONSAH	billysteve   helped in design of power point
+
+ NATHANIEL YEBUAH	tenacite     provided the draft
+ 
+ KETEKU YAYRA KOFI 	argon2008-aiti   designed power point
